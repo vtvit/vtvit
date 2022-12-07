@@ -2,7 +2,7 @@
     "name": "سورس الجوكر <3",
     "description": "اللهم صل على محمد وآل محمد",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["joker", "userbot","scalingo"],
+    "keywords": ["joker", "telethon","scalingo"],
     "repository": "https://github.com/jepthoniq/lMl10l",
   "stack": "container",
     "env": {
