@@ -83,7 +83,7 @@ _set_bot () {
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
     echo "   ᯽︙ جارِ بدء سورس الجوكر    "
-    python3 -m jepthon
+    python3 -m iquserbot
 }
 
 _set_bot
