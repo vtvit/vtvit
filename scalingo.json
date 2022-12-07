@@ -1,0 +1,50 @@
+{
+    "name": "سورس الجوكر",
+    "description": "اللهم صل على محمد وآل محمد",
+    "keywords": ["telegram" "userbot", "Joker", "telethon"],
+    "repository": "https://github.com/jepthoniq/lMl10l",
+  "stack": "container",
+    "env": {
+        "ALIVE_NAME": {
+            "description": "هنا ضع اسم حسابك",
+            "required": true
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "هنا ضع ابب ايدي",
+            "required": true
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "هنا ضع ايبي هاش",
+            "required": true
+            "value": ""
+        },
+        "ENV": {
+            "description": "لاتلعب بيها",
+            "required": true
+            "value": "ANYTHING"
+        },
+        "TG_BOT_TOKEN": {
+            "description": "هنا ضع التوكن بوت",
+            "required": true,
+            "value": ""
+        },
+        "TG_BOT_USERNAME": {
+            "description": "هنا ضع معرف البوت",
+            "required": true
+            "value": ""
+        },
+        "STRING_SESSION": {
+            "description": "هنا ضع كود التيرممكس",
+            "required": true
+            "value": ""
+        },
+        "TZ": {
+            "description": "هنا ضع المنطقة الزمنية لدولتك",
+            "required": true
+            "value": "Asia/Baghdad"
+        }
+
+    }
+  }
